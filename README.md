@@ -21,6 +21,4 @@
 
 ---
 
-📫 Let’s connect:  
-- [🌐 WordPress Blog](https://your-wordpress-link)  
-- [💬 Stack Overflow](https://stackoverflow.com/users/your-id)
+
